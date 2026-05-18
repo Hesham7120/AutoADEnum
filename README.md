@@ -94,6 +94,9 @@ Excessive privilege inheritance
 Usage
 
 <img width="1089" height="825" alt="image" src="https://github.com/user-attachments/assets/af495d22-e943-4273-beaf-64f676d1e0a7" />
+
+--------------------------------------------------------------------------------------------------------------------------------------
+
 <img width="1071" height="750" alt="image" src="https://github.com/user-attachments/assets/a4f132fd-b41a-416c-aef7-edcc9785198f" />
 
 
