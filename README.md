@@ -101,11 +101,15 @@ Usage
 
 
 
-Output
+#Output
 
 <img width="945" height="311" alt="image" src="https://github.com/user-attachments/assets/18c373a5-af33-4680-a517-cde895537259" />
 
+#EX user output
 
+<img width="1909" height="376" alt="image" src="https://github.com/user-attachments/assets/573a2eb6-417d-40bd-9558-3f84dba79447" />
+
+-----------------------------------------------------------------------------------------------------------------------------------
 The framework generates structured output directories containing:
 
 Findings
